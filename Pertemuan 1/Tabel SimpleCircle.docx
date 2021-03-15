@@ -1,0 +1,18 @@
+Circle
+radius: double 
+SimpleCircle()
+SimpleCircle(newRadius: double)
+getArea(): double
+getPerimeter(): double
+setRadius(newRadius: double): void
+
+Circle: circle1
+Circle: circle2
+Circle: circle3
+Radius= 5
+Radius= 10
+Radius= 15
+
+
+DIO FAJRUYANTO
+A11.2019.12046
